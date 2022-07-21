@@ -9,7 +9,7 @@ A database in XML with a lot of cool links for any purpose and free.
     <titel></titel>
     <description></description>
     <url><url>
-    <image></image>
+    <image></image> //removed 07-21-22
     <category></category>
     <advertising></advertising>
     <clicks></clicks>
